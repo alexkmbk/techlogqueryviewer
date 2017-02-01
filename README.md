@@ -1,5 +1,5 @@
 
-[![Join the chat at https://gitter.im/techlogqueryviewer](https://badges.gitter.im/techlogqueryviewer.svg)](https://gitter.im/techlogqueryviewer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/techlogqueryviewer/Main](https://badges.gitter.im/techlogqueryviewer.svg)](https://gitter.im/techlogqueryviewer/Main?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 techlogqueryviewer
 ==================
